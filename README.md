@@ -6,7 +6,7 @@ Add one of this in front of the title
 
 # Cabinet Locker ![status](https://img.shields.io/badge/-in%20progress-red)
 
-A RFid access control system for a cabinet
+A RFid access control system for a cabinet this projet is still in its early stages (brainstorming stage)
 
 ![Cabinet Locker PCB](hardware/cabinet-locker.png)
 
